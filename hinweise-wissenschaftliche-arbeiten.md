@@ -1,4 +1,4 @@
-# Allgemeine Hinweise für das wissenschaftliche Arbeiten
+# Allgemeine Hinweise für das wissenschaftliche Arbeiten 
 
 Dieses Dokument enthält Hinweise für die Erstellung wissenschaftlicher Arbeiten. Diese sollten beim Erstellen der Arbeit berücksichtigt werden. Die Liste der Hinweise ist weder vollständig noch erhebt sie den Anspruch weiterführende Literatur zu wissenschaftlichem Arbeiten zu ersetzen.
 
